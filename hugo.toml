@@ -177,7 +177,7 @@ disableNextPrev = false
 # relative file path of a the displayed page. The URL must end with a `/`.
 # This is useful if you wnat to give the opportunity for people to create merge
 #  request for your content.
-editURL = "https://github.com/cloudowski/self-study/edit/main/content/"
+editURL = "https://github.com/cloudowski/devops-selfstudy/edit/main/content/"
 
 #++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 # Menu
